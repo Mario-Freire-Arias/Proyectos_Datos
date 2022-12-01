@@ -1,0 +1,5 @@
+,tipos_datos,nulos,vacios
+order_details_id,int64,0,0
+order_id,int64,0,0
+pizza_id,object,0,0
+quantity,int64,0,0
