@@ -1,0 +1,5 @@
+Este documento aspira a resolver la problematica de la compra semanal de ingredientes para la pizzeria. A continuacion se explican los motivos de la solucion propuesta.
+
+Partiendo de varios archivos con los registros de pedidos de pizzas, que contienen informacion como el tipo de pizza, el tamaño, los ingredientes, el precio, la fecha y la hora del pedido, se ha creado un programa que calcula de forma aproximada la cantidad de cada ingrediente (medido en unidades, que seran distintas para cada ingrediente) que se necesita para una semana. Estos resultados ponderan segun el tamaño de la pizza la cantidad de ingredientes, y promedian el numero total de ingredientes consumidos en un año para dar los ingredientes de una semana. De esta forma, el usuario puede ver que ingredientes debe comprar y en que cantidad.
+
+La importancia de este trabajo reside en optimizar la compra de ingredientes para que sea lo mas eficiente posible, de forma que no se tire ni se acabe ninguno, lo cual nos costaria dinero. En las hojas finales del documento se adjuntan algunos graficos ilustrativos.

@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <ingrediente>Mozzarella Cheese</ingrediente>
+    <count>5606</count>
+  </row>
+  <row>
+    <index>1</index>
+    <ingrediente>Tomato Sauce</ingrediente>
+    <count>5149</count>
+  </row>
+  <row>
+    <index>2</index>
+    <ingrediente>Garlic</ingrediente>
+    <count>561</count>
+  </row>
+  <row>
+    <index>3</index>
+    <ingrediente>Tomatoes</ingrediente>
+    <count>540</count>
+  </row>
+  <row>
+    <index>4</index>
+    <ingrediente>Red Onions</ingrediente>
+    <count>394</count>
+  </row>
+  <row>
+    <index>5</index>
+    <ingrediente>Red Peppers</ingrediente>
+    <count>330</count>
+  </row>
+  <row>
+    <index>6</index>
+    <ingrediente>Spinach</ingrediente>
+    <count>195</count>
+  </row>
+  <row>
+    <index>7</index>
+    <ingrediente>Pepperoni</ingrediente>
+    <count>195</count>
+  </row>
+  <row>
+    <index>8</index>
+    <ingrediente>Mushrooms</ingrediente>
+    <count>184</count>
+  </row>
+  <row>
+    <index>9</index>
+    <ingrediente>Chicken</ingrediente>
+    <count>175</count>
+  </row>
+  <row>
+    <index>10</index>
+    <ingrediente>Capocollo</ingrediente>
+    <count>137</count>
+  </row>
+  <row>
+    <index>11</index>
+    <ingrediente>Green Olives</ingrediente>
+    <count>121</count>
+  </row>
+  <row>
+    <index>12</index>
+    <ingrediente>Jalapeno Peppers</ingrediente>
+    <count>118</count>
+  </row>
+  <row>
+    <index>13</index>
+    <ingrediente>Artichokes</ingrediente>
+    <count>113</count>
+  </row>
+  <row>
+    <index>14</index>
+    <ingrediente>Green Peppers</ingrediente>
+    <count>104</count>
+  </row>
+  <row>
+    <index>15</index>
+    <ingrediente>Pineapple</ingrediente>
+    <count>96</count>
+  </row>
+  <row>
+    <index>16</index>
+    <ingrediente>Feta Cheese</ingrediente>
+    <count>94</count>
+  </row>
+  <row>
+    <index>17</index>
+    <ingrediente>Bacon</ingrediente>
+    <count>76</count>
+  </row>
+  <row>
+    <index>18</index>
+    <ingrediente>Cilantro</ingrediente>
+    <count>71</count>
+  </row>
+  <row>
+    <index>19</index>
+    <ingrediente>Corn</ingrediente>
+    <count>71</count>
+  </row>
+  <row>
+    <index>20</index>
+    <ingrediente>Chipotle Sauce</ingrediente>
+    <count>71</count>
+  </row>
+  <row>
+    <index>21</index>
+    <ingrediente>Goat Cheese</ingrediente>
+    <count>70</count>
+  </row>
+  <row>
+    <index>22</index>
+    <ingrediente>Kalamata Olives</ingrediente>
+    <count>67</count>
+  </row>
+  <row>
+    <index>23</index>
+    <ingrediente>Asiago Cheese</ingrediente>
+    <count>67</count>
+  </row>
+  <row>
+    <index>24</index>
+    <ingrediente>Fontina Cheese</ingrediente>
+    <count>67</count>
+  </row>
+  <row>
+    <index>25</index>
+    <ingrediente>Pesto Sauce</ingrediente>
+    <count>56</count>
+  </row>
+  <row>
+    <index>26</index>
+    <ingrediente>Thai Sweet Chilli Sauce</ingrediente>
+    <count>50</count>
+  </row>
+  <row>
+    <index>27</index>
+    <ingrediente>Barbecued Chicken</ingrediente>
+    <count>49</count>
+  </row>
+  <row>
+    <index>28</index>
+    <ingrediente>Barbecue Sauce</ingrediente>
+    <count>49</count>
+  </row>
+  <row>
+    <index>29</index>
+    <ingrediente>Zucchini</ingrediente>
+    <count>48</count>
+  </row>
+  <row>
+    <index>30</index>
+    <ingrediente>Gouda Cheese</ingrediente>
+    <count>48</count>
+  </row>
+  <row>
+    <index>31</index>
+    <ingrediente>Artichoke</ingrediente>
+    <count>48</count>
+  </row>
+  <row>
+    <index>32</index>
+    <ingrediente>Sliced Ham</ingrediente>
+    <count>47</count>
+  </row>
+  <row>
+    <index>33</index>
+    <ingrediente>Parmigiano Reggiano Cheese</ingrediente>
+    <count>42</count>
+  </row>
+  <row>
+    <index>34</index>
+    <ingrediente>Gorgonzola Piccante Cheese</ingrediente>
+    <count>42</count>
+  </row>
+  <row>
+    <index>35</index>
+    <ingrediente>Ricotta Cheese</ingrediente>
+    <count>42</count>
+  </row>
+  <row>
+    <index>36</index>
+    <ingrediente>Peperoncini verdi</ingrediente>
+    <count>40</count>
+  </row>
+  <row>
+    <index>37</index>
+    <ingrediente>Calabrese Salami</ingrediente>
+    <count>39</count>
+  </row>
+  <row>
+    <index>38</index>
+    <ingrediente>Onions</ingrediente>
+    <count>37</count>
+  </row>
+  <row>
+    <index>39</index>
+    <ingrediente>Luganega Sausage</ingrediente>
+    <count>37</count>
+  </row>
+  <row>
+    <index>40</index>
+    <ingrediente>Coarse Sicilian Salami</ingrediente>
+    <count>37</count>
+  </row>
+  <row>
+    <index>41</index>
+    <ingrediente>Sun-dried Tomatoes</ingrediente>
+    <count>37</count>
+  </row>
+  <row>
+    <index>42</index>
+    <ingrediente>Provolone Cheese</ingrediente>
+    <count>33</count>
+  </row>
+  <row>
+    <index>43</index>
+    <ingrediente>Blue Cheese</ingrediente>
+    <count>33</count>
+  </row>
+  <row>
+    <index>44</index>
+    <ingrediente>Romano Cheese</ingrediente>
+    <count>33</count>
+  </row>
+  <row>
+    <index>45</index>
+    <ingrediente>Smoked Gouda Cheese</ingrediente>
+    <count>33</count>
+  </row>
+  <row>
+    <index>46</index>
+    <ingrediente>Beef Chuck Roast</ingrediente>
+    <count>31</count>
+  </row>
+  <row>
+    <index>47</index>
+    <ingrediente>Italian Sausage</ingrediente>
+    <count>30</count>
+  </row>
+  <row>
+    <index>48</index>
+    <ingrediente>Chorizo Sausage</ingrediente>
+    <count>30</count>
+  </row>
+  <row>
+    <index>49</index>
+    <ingrediente>Oregano</ingrediente>
+    <count>30</count>
+  </row>
+  <row>
+    <index>50</index>
+    <ingrediente>Genoa Salami</ingrediente>
+    <count>30</count>
+  </row>
+  <row>
+    <index>51</index>
+    <ingrediente>Anchovies</ingrediente>
+    <count>29</count>
+  </row>
+  <row>
+    <index>52</index>
+    <ingrediente>Arugula</ingrediente>
+    <count>29</count>
+  </row>
+  <row>
+    <index>53</index>
+    <ingrediente>Prosciutto di San Daniele</ingrediente>
+    <count>29</count>
+  </row>
+  <row>
+    <index>54</index>
+    <ingrediente>Alfredo Sauce</ingrediente>
+    <count>20</count>
+  </row>
+  <row>
+    <index>55</index>
+    <ingrediente>Soppressata Salami</ingrediente>
+    <count>19</count>
+  </row>
+  <row>
+    <index>56</index>
+    <ingrediente>Friggitello Peppers</ingrediente>
+    <count>19</count>
+  </row>
+  <row>
+    <index>57</index>
+    <ingrediente>Pancetta</ingrediente>
+    <count>19</count>
+  </row>
+  <row>
+    <index>58</index>
+    <ingrediente>Nduja Salami</ingrediente>
+    <count>19</count>
+  </row>
+  <row>
+    <index>59</index>
+    <ingrediente>Eggplant</ingrediente>
+    <count>19</count>
+  </row>
+  <row>
+    <index>60</index>
+    <ingrediente>Plum Tomatoes</ingrediente>
+    <count>19</count>
+  </row>
+  <row>
+    <index>61</index>
+    <ingrediente>Brie Carre Cheese</ingrediente>
+    <count>8</count>
+  </row>
+  <row>
+    <index>62</index>
+    <ingrediente>Prosciutto</ingrediente>
+    <count>8</count>
+  </row>
+  <row>
+    <index>63</index>
+    <ingrediente>Caramelized Onions</ingrediente>
+    <count>8</count>
+  </row>
+  <row>
+    <index>64</index>
+    <ingrediente>Pears</ingrediente>
+    <count>8</count>
+  </row>
+  <row>
+    <index>65</index>
+    <ingrediente>Thyme</ingrediente>
+    <count>8</count>
+  </row>
+</data>
