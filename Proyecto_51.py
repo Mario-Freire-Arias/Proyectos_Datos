@@ -6,7 +6,6 @@ def et_api():
     funcion que hace la etl de la api de la nba. llama a las funciones de extraer transformar y cargar los datos de la api
     """
     key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' # key de la api de la nba (personal y privada, se obtiene al registrarse)
-    key = 'd5bee63516764094aeeef070f34cedab'
     try:
         url = 'https://api.sportsdata.io/v3/nba/scores/json/Standings/2022?key=' + key
         response_standings = requests.get(url)
