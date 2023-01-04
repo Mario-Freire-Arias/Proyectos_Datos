@@ -1,0 +1,3 @@
+AÑADIR LA CONFIGURACIÓN NECESARIA PARA LAS ETL (ej. credenciales usadas para consumir las apis -la estructura de las credenciales usadas-)
+
+
